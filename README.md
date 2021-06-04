@@ -1,1 +1,1 @@
-[java面试题](https://github.com/LibraSunBoy/JavaInterview)
+[java面试题](https://librasunboy.github.io/JavaInterview/)
